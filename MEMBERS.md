@@ -12,6 +12,7 @@ This page recognizes the core researchers and engineers from the **Politecnico d
 | :--- | :--- | :--- | :--- |
 | <img src="https://github.com" width="40" style="border-radius:50%"> | **Marco Mellia** | Project Coordinator | [@username](https://github.com) |
 | <img src="https://github.com" width="40" style="border-radius:50%"> | **Luca Vassio** | Assistant Professor | [@username](https://github.com) |
+| <img src="https://avatars.githubusercontent.com/u/48275594?v=4" width="40" style="border-radius:50%"> | **Matteo Boffa** | Assistant Professor | [@MatteoBoffa](https://github.com/MatteoBoffa) |
 
 ---
 
